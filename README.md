@@ -1,2 +1,4 @@
 # Machine-Learning-Approach-to-Investigate-Car-Accidents-Features-Course-Project-
 Machine Learning Approach to Investigate Car Accidents Features (Course Project)
+
+This study employs k-means clustering to analyze vehicular accident data in Canada from 1999 to 2014, aiming to uncover trends and inform safety enhancements. The clustering identified rear-end collisions as the most frequent accident type, emphasizing the need for engineering interventions to prevent rear-end collisions. This research advocates for developing driver support systems like automatic braking, intelligent speed adaptation, tire technology, and road materials improvements to address adverse weather conditions. The study concludes that integrating these engineering solutions is crucial for reducing accidents and enhancing road safety, highlighting the significant impact of technology on public health and safety.
